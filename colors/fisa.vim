@@ -56,7 +56,7 @@ hi Boolean guifg=#d7d75f guibg=NONE guisp=NONE gui=NONE ctermfg=185 ctermbg=NONE
 hi Operator guifg=#84a3e3 guibg=NONE guisp=NONE gui=NONE ctermfg=110 ctermbg=NONE cterm=NONE
 hi CursorLine guifg=NONE guibg=#202020 guisp=#202020 gui=NONE ctermfg=NONE ctermbg=234 cterm=NONE
 "hi Union -- no settings --
-"hi TabLineFill -- no settings --
+hi TabLineFill ctermbg=Black ctermfg=Black
 "hi Question -- no settings --
 "hi WarningMsg -- no settings --
 "hi VisualNOS -- no settings --
